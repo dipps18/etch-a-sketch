@@ -12,6 +12,8 @@ html,body{
 h1{
     font-family: 'Stick No Bills', sans-serif;
     color:white;
+    margin:0;
+
 }
 
 .center {
